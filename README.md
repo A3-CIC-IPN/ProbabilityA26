@@ -16,7 +16,22 @@
 1. Probability Spaces (Chapter 1.4 to 1.5 [1])
 
 ### Videos and Slides
-(4/02/2026) 1.1 Set Theory Review I [Youtube](https://youtu.be/0MqDjyr0HUA), [Slides](https://drive.google.com/file/d/1gNoSWNq2ZDf3EVQzaKhA9y9j2qmlUvMO/view?usp=sharing)
+(4/02/2026) 1.2 Set Theory Review I [Youtube](https://youtu.be/0MqDjyr0HUA), [Slides](https://drive.google.com/file/d/1gNoSWNq2ZDf3EVQzaKhA9y9j2qmlUvMO/view?usp=sharing)
+(09/02/2026) 1.3 Set Theory Review II (Cantor's Theorem) [Youtube](https://youtu.be/y7rs09LM-sM), [Slides](https://drive.google.com/file/d/198ocqe5q4M81DZ6Qr3TSWzZz-AUZeHal/view?usp=drive_link)
+
+## 1.3 Sample Space Examples
+### Readings
+1. Probability Spaces (Chapter 1.4 to 1.5 [1])
+
+### Videos and Slides
+(09/02/2026) 1.3 Ejemplos de espacio muestra y algebra de conjuntos. [Youtube](https://youtu.be/irrg3OGWCyM), [Slides](https://drive.google.com/file/d/1Y8rWEzyAjF7lWFoeo_SWRRn02DTQZjzd/view?usp=drive_link)
+
+## 1.4 The Probability Measure
+### Readings
+1. Probability Spaces (Chapter 1.6 to 1.7 [1])
+
+### Videos and Slides
+
 
 # References
 
