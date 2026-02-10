@@ -32,6 +32,28 @@
 
 ### Videos and Slides
 
+## 1.5 Counting
+### Readings
+1. Counting (Chapter 1.4 to 1.5 [2])
+
+### Videos and Slides
+
+# 2. Conditional Probability
+## 2.1 Chance domains with side information
+### Readings
+1. Chance domains with side information (Chapter 2.1 to 2.2 [1])
+2. The importance of thinking conditionally (Chapter 2.1 to 2.2 [2])
+
+## 2.2 The theorem of total probability
+### Readings
+1. The theorem of total probability (Chapter 2.3 to 2.4)
+2. Bayes’ rule and the law of total probability (Chapter 2.3 to 2.4)
+### Videos and Slides
+
+## 2.3 Bayes’s rule for events, the MAP principle
+### Readings
+1. Bayes’s rule for events, the MAP principle (Chapter 2.8 to 2.10)
+### Videos and Slides
 
 # References
 
