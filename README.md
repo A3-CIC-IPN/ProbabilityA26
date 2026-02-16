@@ -31,12 +31,15 @@
 1. Probability Spaces (Chapter 1.6 to 1.7 [1])
 
 ### Videos and Slides
+(11/02/2026) The Probability Measure. Youtube (Technical Problems), [Slides](https://drive.google.com/file/d/1OW5MjoFYa6cggWp76Vi_KGNM9PD0kVbM/view?usp=sharing)
+(11/02/2026) Discrete Measures. [Youtube](https://youtu.be/_ArPRa5CKx4), [Slides](https://drive.google.com/file/d/1OW5MjoFYa6cggWp76Vi_KGNM9PD0kVbM/view?usp=sharing)
 
 ## 1.5 Counting
 ### Readings
 1. Counting (Chapter 1.4 to 1.5 [2])
 
 ### Videos and Slides
+(11/02/2026) Counting I. [Youtube](https://youtu.be/_d4akX-Be6Y), [Slides](https://drive.google.com/file/d/1bS8nXwblOJWaPn8qN7fIuokVhEI7UKUX/view?usp=sharing)
 
 # 2. Conditional Probability
 ## 2.1 Chance domains with side information
