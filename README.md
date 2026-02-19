@@ -39,13 +39,19 @@
 1. Counting (Chapter 1.4 to 1.5 [2])
 
 ### Videos and Slides
-(11/02/2026) Counting I. [Youtube](https://youtu.be/_d4akX-Be6Y), [Slides](https://drive.google.com/file/d/1bS8nXwblOJWaPn8qN7fIuokVhEI7UKUX/view?usp=sharing)
+(11/02/2026) Counting I. [Youtube](https://youtu.be/_d4akX-Be6Y), [Slides]([https://drive.google.com/file/d/1OW5MjoFYa6cggWp76Vi_KGNM9PD0kVbM/view?usp=sharing](https://drive.google.com/file/d/1bS8nXwblOJWaPn8qN7fIuokVhEI7UKUX/view?usp=sharing))
+(16/02/2026) Counting II (Birthday's Paradox) [Youtube](https://youtu.be/Vs8uUDFPEfY), [Slides](https://drive.google.com/file/d/1EWlN-Vx4Z5CSZ-l6C83OnsBgxXjvSFlV/view?usp=sharing)
+(16/02/2026) Counting III (Combinations) [Youtube](https://youtu.be/_R1aEmozFmE)
+(18/02/2026) Counting IV [Youtube](https://youtu.be/_e_SejSi9BI), [Slides](https://drive.google.com/file/d/1laKWe6IzvQiMJ9Jqm59Hi_-XjQbl8J5-/view?usp=sharing) 
 
 # 2. Conditional Probability
 ## 2.1 Chance domains with side information
 ### Readings
 1. Chance domains with side information (Chapter 2.1 to 2.2 [1])
 2. The importance of thinking conditionally (Chapter 2.1 to 2.2 [2])
+
+### Videos and Slides
+(18/02/2026) Conditional Probability [Youtube](https://youtu.be/_e_SejSi9BI), [Slides](https://drive.google.com/file/d/1h0IJ0AjhvsUZb8hQupdsXaxOOyy1RpnU/view?usp=sharing)
 
 ## 2.2 The theorem of total probability
 ### Readings
