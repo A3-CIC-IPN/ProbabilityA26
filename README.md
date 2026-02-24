@@ -52,6 +52,8 @@
 
 ### Videos and Slides
 (18/02/2026) Conditional Probability [Youtube](https://youtu.be/_e_SejSi9BI), [Slides](https://drive.google.com/file/d/1h0IJ0AjhvsUZb8hQupdsXaxOOyy1RpnU/view?usp=sharing)
+(23/02/2026) Chain Rule [Youtube](https://youtu.be/Zm67KOQ9vHQ), [Slides](https://drive.google.com/file/d/1mEfrcN5yAMXWagxxTMVUnrqc2gnqKARb/view?usp=sharing)
+(23/02/2026) Karger's Algorithm (Global Min Cut) [Youtube](https://youtu.be/jhQYDm-yRi0), [slides](https://drive.google.com/file/d/1syC43_w62p_Mp3mow1KciFhmAvwmUCtk/view?usp=sharing)
 
 ## 2.2 The theorem of total probability
 ### Readings
