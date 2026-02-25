@@ -60,6 +60,8 @@
 1. The theorem of total probability (Chapter 2.3 to 2.4)
 2. Bayes’ rule and the law of total probability (Chapter 2.3 to 2.4)
 ### Videos and Slides
+(25/02/2026) Total probability [Youtube](https://youtu.be/binIj8pyf0A), [Notes](https://drive.google.com/file/d/19IP3T5d9qE865YVYgDGp612V0njjDytJ/view?usp=sharing)
+(25/02/2026) Ballot theorem [Youtube](https://youtu.be/A59cDyaRSC0), [Notes](https://drive.google.com/file/d/19IP3T5d9qE865YVYgDGp612V0njjDytJ/view?usp=sharing)
 
 ## 2.3 Bayes’s rule for events, the MAP principle
 ### Readings
