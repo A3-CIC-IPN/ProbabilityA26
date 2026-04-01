@@ -67,6 +67,23 @@
 ### Readings
 1. Bayes’s rule for events, the MAP principle (Chapter 2.8 to 2.10)
 ### Videos and Slides
+(4/03/2026) Bayes's Theorem [Youtube](https://youtu.be/7asWkHxoikc), [Notes](https://drive.google.com/file/d/1mATuDMLLxhK0PbMdI7UtMfsovq7D1HDJ/view?usp=sharing)
+(4/03/2026) Applications of Baye's Theorem [Youtube](https://youtu.be/j3paJD_M85k)
+
+## 2.4 Independence
+### Readings
+1. A first look at independence (Chapter 3.1 to 3.4)
+### Videos and Slides
+(11/03/2026) Independence [Youtube](https://youtu.be/Lc1AlEZYwbA), [Notes](https://drive.google.com/file/d/1o_wll6hTA0GEVj5EsJyz0U34dD4dpBQ0/view?usp=sharing)
+(11/03/2026) Independence II [Youtube](https://youtu.be/eOigaaZjClE)
+(18/03/2026) Contention Resolution [Youtube](https://youtu.be/4AaKIk3HRZs)
+(18/03/2026) Naive Bayes [Youtube](https://youtu.be/TDvBetSC0YE)
+(23/03/2026) Product Space [Youtube](https://youtu.be/DEtgQghlxCI), [Notes](https://drive.google.com/file/d/1ActRfDbF3L5cwk6jlmB2Eoy-tVdKzeYw/view?usp=sharing)
+(23/03/2026) Product Space II [Youtube](https://youtu.be/gVzh45Vc05U)
+
+## Exercises
+Solve the following problems from Blinzstein's book, Chapter 2:
+1, 3, 5, 6, 8, 11, 12, 15, 16, 18, 19, 22, 31, 34, 35, 48, 50, 53, 58
 
 # References
 
